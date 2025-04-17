@@ -1,12 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, this is Hubstarter</h1>
+<h3 align="center">A while label platform to empower member organisations</h3>
 
-<!--
+### QUT Capstone
+This project is being run in the framework of Capstone and our team has four members
+ - Logan
+ - Liam
+ - Isabell
+ - Rina
 
-**Here are some ideas to get you started:**
+At the end of 2025, we aim to have delivered a fully functional white label app with a complimenting web portal, backend API, and DB. These elements will be deployed via deployment pipelines to Azure infrastructure as code.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
